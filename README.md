@@ -1,8 +1,8 @@
-# ITPros del Caribe - Versión 3
+# ITPros del Caribe - Versión 4
 
 Sitio estático de presentación para soporte técnico y consultoría de TI en Barranquilla y la Región Caribe de Colombia.
 
-Esta versión mantiene una copia independiente de las versiones anteriores, incorpora una propuesta de misión, visión y valores, suaviza el fondo general a un gris muy tenue y añade un banner de borde a borde con nombres de fabricantes que cambia cada 10 segundos. Las declaraciones institucionales deben revisarse antes de usarse como posicionamiento oficial.
+Esta versión conserva el sitio publicado en la versión 3 y añade las insignias CertiProf ISO/IEC 42001 Internal Auditor (I42001IA) y AI Agent Manager (AIAM), una sección de certificaciones y dos servicios relacionados con auditoría interna de sistemas de gestión de IA y gestión de agentes de IA.
 
 El carrusel presenta nombres como referencia tecnológica; no indica afiliación, certificación ni patrocinio. Para utilizar logotipos oficiales se deben confirmar los permisos correspondientes y emplear archivos de marca autorizados.
 
